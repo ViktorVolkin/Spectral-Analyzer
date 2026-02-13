@@ -1,0 +1,4 @@
+Filename,Status,Delta_R,Q_percent
+dataset_1.csv,success,9.41384615384618,20.793743145624273
+example_spectrum.csv,success,0.6020979020979038,63.308823529411775
+generated_spectrum.csv,success,2.393910844565738,5.557162059315457

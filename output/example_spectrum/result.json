@@ -1,0 +1,43 @@
+{
+  "input_file": "data\\example_spectrum.csv",
+  "output_directory": "output\\example_spectrum",
+  "status": "success",
+  "data_info": {
+    "num_points": 61,
+    "x_range": [
+      400.0,
+      1000.0
+    ],
+    "y_range": [
+      0.2,
+      1.0
+    ]
+  },
+  "smoothing_parameters": {
+    "window_length": 11,
+    "polyorder": 3
+  },
+  "extrema": {
+    "peak1": {
+      "x": 560.0,
+      "y": 0.9510489510489536,
+      "derivative": -0.0007469568424096482
+    },
+    "peak2": {
+      "x": 840.0,
+      "y": 0.9510489510489536,
+      "derivative": 0.0009146079694862547
+    },
+    "valley": {
+      "x": 700.0,
+      "y": 0.34895104895104984,
+      "derivative": -4.287847186154863e-05
+    }
+  },
+  "result": {
+    "success": true,
+    "difference": 0.6020979020979038,
+    "Q_percent": 63.308823529411775,
+    "description": "Delta R и коэффициент Q (отношение Delta R к высоте первого пика)"
+  }
+}
