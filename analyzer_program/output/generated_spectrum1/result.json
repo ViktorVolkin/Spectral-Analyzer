@@ -1,0 +1,37 @@
+{
+  "input_file": "data\\generated_spectrum1.csv",
+  "status": "success",
+  "smoothing_parameters": {
+    "window_arg": "auto",
+    "window_nm_used": 30.303030303030283
+  },
+  "result": {
+    "difference": 2.318041884317296,
+    "Q_percent": 5.39307247351531
+  },
+  "data_info": {
+    "num_points": 100,
+    "x_range": [
+      300.0,
+      800.0
+    ],
+    "y_range": [
+      33.828806129466464,
+      43.06362922313575
+    ]
+  },
+  "extrema": {
+    "peak1": {
+      "x": 426.2626262626263,
+      "y": 42.98184190368113
+    },
+    "peak2": {
+      "x": 552.5252525252525,
+      "y": 41.490150530946686
+    },
+    "valley": {
+      "x": 486.8686868686869,
+      "y": 39.9477881604513
+    }
+  }
+}
